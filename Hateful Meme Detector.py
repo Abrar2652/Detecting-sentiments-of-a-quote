@@ -37,29 +37,6 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 
 # ### At first place the attached `'balmy-channel-278201-7d1169cc888d.json'` file to your `'C:\\Users\your_document\'` as 'GOOGLE_APPLICATION_CREDENTIALS'. Then input the file_name and path_name of the test_data. It'll automatically evaluate sentiment.
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
 
 # In[1]:
 
@@ -465,21 +442,6 @@ b
 
 
 b.to_csv('Test3.csv')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
