@@ -4,5 +4,7 @@ Use the GOOGLE CREDENTIAL to have access of Google cloud sentiment and langauge 
 
 Visit leaderboard to watch my standing and follow me on HackerEarth:
 
-[HackerEarth Machine Learning challenge: Love is love Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pride-month-edition/leaderboard/detect-the-sentiment-of-a-quote-2-ca749be7/)
-[Abrar's HackerEarth Profile](https://www.hackerearth.com/@abrar.jahin.2652)
+* [HackerEarth Machine Learning challenge: Love is love Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pride-month-edition/leaderboard/detect-the-sentiment-of-a-quote-2-ca749be7/)
+
+
+ * [Abrar's HackerEarth Profile](https://www.hackerearth.com/@abrar.jahin.2652)
